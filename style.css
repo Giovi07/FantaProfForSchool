@@ -1,0 +1,67 @@
+body {
+	background-color: #09d0ce;
+}
+
+
+
+.storage{
+	border: 2px solid black;
+	border-radius: 15px;
+	height: 43px;
+	width: 340px;
+	background-color: #8b9599;
+	position: center;
+}
+
+.text{
+	border: none;
+	background: none;
+	padding: 15px;
+	color: black;
+	font-family: cursive;
+}
+
+.button{
+	background-color: #30373b;
+    color: black;
+    border: 2px solid #99a4a8;
+	height: 36px;
+	width: 150px;
+	border-radius: 10px;
+}
+
+.punteggio{
+	border: none;
+	background: none;
+	padding: none;
+	color: black;
+	font-family: cursive;
+}
+
+.testo{
+	border: none;
+	background: none;
+	padding: none;
+	color: white;
+	font-family: cursive;
+}
+
+.secondriga{
+	border: none;
+	background: none;
+	padding: 10px;
+	color: black;
+	font-family: cursive;
+}
+
+.primariga{
+	border: none;
+	background: none;
+	padding: none;
+	color: black;
+	font-family: Fantasy;
+}
+
+.shadow p-3 mb-5 bg-body rounded{
+	background-color: black;
+}
